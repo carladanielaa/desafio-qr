@@ -1,0 +1,34 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  text-decoration: none;
+}
+
+
+body {
+  background-color: rgba(184, 184, 215, 0.335);
+  display: grid;
+  place-items: center;
+}
+p {
+  text-align: center;
+  margin: 10px;
+  width: 300px;
+}
+div {
+  background-color: rgba(240, 248, 255, 0.853);
+  width: 450px;
+  height: auto;
+  border-radius: 10px;
+  display: grid;
+  place-items: center;
+  margin-top: 25%;
+}
+img {
+  margin: 20px;
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
